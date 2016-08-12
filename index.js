@@ -60,7 +60,7 @@ function createReadme(obj) {
       }
     }
   } else {
-    obj.forEach((item) => { buff.push(` * [${item.replace('.pdf', '')}](https://github.com/IgorMotorny/library/blob/master/books/${item}) \n`); });
+    obj.forEach((item) => { buff.push(`\n* [${item.replace('.pdf', '')}](https://github.com/IgorMotorny/library/blob/master/books/${item}) \n`); });
   }
   return buff;
 }
