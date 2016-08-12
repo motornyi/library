@@ -15,20 +15,20 @@
 * [Секреты JavaScript ниндзя(Джон Резиг, 2015)](https://github.com/IgorMotorny/library/blob/master/books/Секреты JavaScript ниндзя(Джон Резиг, 2015).pdf) 
 * [Сила JavaScript. 68 способов эффективного использования JS(2013, Херман Д.)](https://github.com/IgorMotorny/library/blob/master/books/Сила JavaScript. 68 способов эффективного использования JS(2013, Херман Д.).pdf) 
 * [Сюрреализм на JavaScript(2014, А. Бахирев)](https://github.com/IgorMotorny/library/blob/master/books/Сюрреализм на JavaScript(2014, А. Бахирев).pdf) 
-## Backbone
+ ## Backbone
 * [Разработка Backbone.js приложений (2014,Эдди Османи)_](https://github.com/IgorMotorny/library/blob/master/books/Разработка Backbone.js приложений (2014,Эдди Османи)_.pdf) 
-## JQuery
+ ## JQuery
 * [jQuery Trickshots((Tutorialzine))](https://github.com/IgorMotorny/library/blob/master/books/jQuery Trickshots((Tutorialzine)).pdf) 
 * [jQuery. Cборник рецептов - (2011,Самков Г. А.)](https://github.com/IgorMotorny/library/blob/master/books/jQuery. Cборник рецептов - (2011,Самков Г. А.).pdf) 
 * [jQuery. Подробное руководство по продвинутому JavaScript(2011,Bear Bibeault)](https://github.com/IgorMotorny/library/blob/master/books/jQuery. Подробное руководство по продвинутому JavaScript(2011,Bear Bibeault).pdf) 
-## Ng-book
+ ## Ng-book
 * [ng-book 2](https://github.com/IgorMotorny/library/blob/master/books/ng-book 2.pdf) 
 * [ng-book](https://github.com/IgorMotorny/library/blob/master/books/ng-book.pdf) 
-## NodeJS
+ ## NodeJS
 * [Node.js в действии(2014, М.Кантелон)](https://github.com/IgorMotorny/library/blob/master/books/Node.js в действии(2014, М.Кантелон).pdf) 
 * [Node.js. Путеводитель по техологии(К. Сухов, 2015)](https://github.com/IgorMotorny/library/blob/master/books/Node.js. Путеводитель по техологии(К. Сухов, 2015).pdf) 
 * [Изучаем Node.js(2014,Shelli Pauers)](https://github.com/IgorMotorny/library/blob/master/books/Изучаем Node.js(2014,Shelli Pauers).pdf) 
-## You don't know js
+ ## You don't know js
 * [You don't know js - async & performance](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - async & performance.pdf) 
 * [You don't know js - es6](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - es6.pdf) 
 * [You don't know js - scope & clousers ](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - scope & clousers .pdf) 
