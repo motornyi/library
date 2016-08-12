@@ -53,7 +53,7 @@ function createReadme(obj) {
   if(obj instanceof Object && !Array.isArray(obj)) {
     for(key in obj) {
       if(key !== 'general') {
-        buff.push(` ## ${key}\n`);
+        buff.push(`\n## ${key}\n`);
         buff.push(...createReadme(obj[key]));
       } else {
         buff.push(...createReadme(obj[key]));
