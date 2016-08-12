@@ -49,7 +49,7 @@ const files = directory.filter(isFile);
 function createReadme() {
   let stringBuffer = [];
   stringBuffer.push('# Frontend books')
-  stringBuffer.push(files.map((filename) => `*[${filename}](https://github.com/IgorMotorny/library/blob/master/books/${filename})`))
+  stringBuffer.push(files.map((filename) => `* [${filename}](https://github.com/IgorMotorny/library/blob/master/books/${filename})`))
   const resultString = stringBuffer.join('\n');
   fs.writeFile('README.md', resultString);
 }
