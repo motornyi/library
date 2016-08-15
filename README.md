@@ -1,73 +1,73 @@
-#Frontend books
+#Frontend books 
+ 
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Discover Meteor(Tom Coleman).pdf">Discover Meteor.pdf</a> 
 
-* [Discover Meteor.pdf](https://github.com/IgorMotorny/library/blob/master/books/Discover Meteor/(Tom Coleman/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >JavaScript для профессиональных веб-разработчиков(2013,Николас Закас).pdf">JavaScript для профессиональных веб-разработчиков.pdf</a> 
 
-* [JavaScript для профессиональных веб-разработчиков.pdf](https://github.com/IgorMotorny/library/blob/master/books/JavaScript для профессиональных веб-разработчиков/(2013,Николас Закас/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >JavaScript. Карманный справочник(Дэвид Флэнаган,2013) vk.com_webtackles.pdf">JavaScript. Карманный справочник vk.com_webtackles.pdf</a> 
 
-* [JavaScript. Карманный справочник vk.com_webtackles.pdf]('https://github.com/IgorMotorny/library/blob/master/books/JavaScript. Карманный справочник/(Дэвид Флэнаган,2013) vk.com_webtackles.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >JavaScript. Оптимизация производительности (2012,Николас Закас).pdf">JavaScript. Оптимизация производительности .pdf</a> 
 
-* [JavaScript. Оптимизация производительности .pdf](https://github.com/IgorMotorny/library/blob/master/books/JavaScript. Оптимизация производительности /(2012,Николас Закас/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >JavaScript. Подробное руководство (2012,Дэвид Флэнаган).pdf">JavaScript. Подробное руководство .pdf</a> 
 
-* [JavaScript. Подробное руководство .pdf](https://github.com/IgorMotorny/library/blob/master/books/JavaScript. Подробное руководство /(2012,Дэвид Флэнаган/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >JavaScript. Сильные стороны(2012, Д. Крокфорд).pdf">JavaScript. Сильные стороны.pdf</a> 
 
-* [JavaScript. Сильные стороны.pdf](https://github.com/IgorMotorny/library/blob/master/books/JavaScript. Сильные стороны/(2012, Д. Крокфорд/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >JavaScript. Шаблоны - (2011,Стоян Стефанов).pdf">JavaScript. Шаблоны - .pdf</a> 
 
-* [JavaScript. Шаблоны - .pdf](https://github.com/IgorMotorny/library/blob/master/books/JavaScript. Шаблоны - /(2011,Стоян Стефанов/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Быстрое прототипирование с JS(Azat Mardan, 2014).pdf">Быстрое прототипирование с JS.pdf</a> 
 
-* [Быстрое прототипирование с JS.pdf](https://github.com/IgorMotorny/library/blob/master/books/Быстрое прототипирование с JS/(Azat Mardan, 2014/).pdf) 
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Веб приложения на JavaScript(2012,Алекс Маккоу).pdf">Веб приложения на JavaScript.pdf</a> 
 
-* [Веб приложения на JavaScript.pdf](https://github.com/IgorMotorny/library/blob/master/books/Веб приложения на JavaScript/(2012,Алекс Маккоу/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Выразительный JavaScrip(2014, М. Хавербек).pdf">Выразительный JavaScrip.pdf</a> 
 
-* [Выразительный JavaScrip.pdf](https://github.com/IgorMotorny/library/blob/master/books/Выразительный JavaScrip/(2014, М. Хавербек/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Графика на JavaScript(Рафаэлло Чекко, 2013).pdf">Графика на JavaScript.pdf</a> 
 
-* [Графика на JavaScript.pdf](https://github.com/IgorMotorny/library/blob/master/books/Графика на JavaScript/(Рафаэлло Чекко, 2013/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Изучаем JavaScript (2012, Моррисон М).pdf">Изучаем JavaScript .pdf</a> 
 
-* [Изучаем JavaScript .pdf](https://github.com/IgorMotorny/library/blob/master/books/Изучаем JavaScript /(2012, Моррисон М/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Паттерны для масштабируемых JavaScript-приложений vk.com_webtackles.pdf">Паттерны для масштабируемых JavaScript-приложений vk.com_webtackles.pdf</a> 
 
-* [Паттерны для масштабируемых JavaScript-приложений vk.com_webtackles.pdf](https://github.com/IgorMotorny/library/blob/master/books/Паттерны для масштабируемых JavaScript-приложений vk.com_webtackles.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Секреты JavaScript ниндзя(Джон Резиг, 2015).pdf">Секреты JavaScript ниндзя.pdf</a> 
 
-* [Секреты JavaScript ниндзя.pdf](https://github.com/IgorMotorny/library/blob/master/books/Секреты JavaScript ниндзя/(Джон Резиг, 2015/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Сила JavaScript. 68 способов эффективного использования JS(2013, Херман Д.).pdf">Сила JavaScript. 68 способов эффективного использования JS.pdf</a> 
 
-* [Сила JavaScript. 68 способов эффективного использования JS.pdf](https://github.com/IgorMotorny/library/blob/master/books/Сила JavaScript. 68 способов эффективного использования JS/(2013, Херман Д./).pdf)
-
-* [Сюрреализм на JavaScript.pdf](https://github.com/IgorMotorny/library/blob/master/books/Сюрреализм на JavaScript/(2014, А. Бахирев/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Сюрреализм на JavaScript(2014, А. Бахирев).pdf">Сюрреализм на JavaScript.pdf</a> 
 
 ## Backbone
 
-* [Разработка Backbone.js приложений _.pdf](https://github.com/IgorMotorny/library/blob/master/books/Разработка Backbone.js приложений /(2014,Эдди Османи/)_.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Разработка Backbone.js приложений (2014,Эдди Османи)_.pdf">Разработка Backbone.js приложений _.pdf</a> 
 
 ## JQuery
 
-* [jQuery Trickshots).pdf](https://github.com/IgorMotorny/library/blob/master/books/jQuery Trickshots/((Tutorialzine/)).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >jQuery Trickshots((Tutorialzine)).pdf">jQuery Trickshots).pdf</a> 
 
-* [jQuery. Cборник рецептов - .pdf](https://github.com/IgorMotorny/library/blob/master/books/jQuery. Cборник рецептов - /(2011,Самков Г. А./).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >jQuery. Cборник рецептов - (2011,Самков Г. А.).pdf">jQuery. Cборник рецептов - .pdf</a> 
 
-* [jQuery. Подробное руководство по продвинутому JavaScript.pdf](https://github.com/IgorMotorny/library/blob/master/books/jQuery. Подробное руководство по продвинутому JavaScript/(2011,Bear Bibeault/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >jQuery. Подробное руководство по продвинутому JavaScript(2011,Bear Bibeault).pdf">jQuery. Подробное руководство по продвинутому JavaScript.pdf</a> 
 
 ## Ng-book
 
-* [ng-book 2.pdf](https://github.com/IgorMotorny/library/blob/master/books/ng-book 2.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >ng-book 2.pdf">ng-book 2.pdf</a> 
 
-* [ng-book.pdf](https://github.com/IgorMotorny/library/blob/master/books/ng-book.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >ng-book.pdf">ng-book.pdf</a> 
 
 ## NodeJS
 
-* [Node.js в действии.pdf](https://github.com/IgorMotorny/library/blob/master/books/Node.js в действии/(2014, М.Кантелон/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Node.js в действии(2014, М.Кантелон).pdf">Node.js в действии.pdf</a> 
 
-* [Node.js. Путеводитель по техологии.pdf](https://github.com/IgorMotorny/library/blob/master/books/Node.js. Путеводитель по техологии/(К. Сухов, 2015/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Node.js. Путеводитель по техологии(К. Сухов, 2015).pdf">Node.js. Путеводитель по техологии.pdf</a> 
 
-* [Изучаем Node.js.pdf](https://github.com/IgorMotorny/library/blob/master/books/Изучаем Node.js/(2014,Shelli Pauers/).pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >Изучаем Node.js(2014,Shelli Pauers).pdf">Изучаем Node.js.pdf</a> 
 
 ## You don't know js
 
-* [You don't know js - async & performance.pdf](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - async & performance.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >You don't know js - async & performance.pdf">You don't know js - async & performance.pdf</a> 
 
-* [You don't know js - es6.pdf](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - es6.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >You don't know js - es6.pdf">You don't know js - es6.pdf</a> 
 
-* [You don't know js - scope & clousers .pdf](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - scope & clousers .pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >You don't know js - scope & clousers .pdf">You don't know js - scope & clousers .pdf</a> 
 
-* [You don't know js - this & object prototypes.pdf](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - this & object prototypes.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >You don't know js - this & object prototypes.pdf">You don't know js - this & object prototypes.pdf</a> 
 
-* [You don't know js - types & grammar.pdf](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - types & grammar.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >You don't know js - types & grammar.pdf">You don't know js - types & grammar.pdf</a> 
 
-* [You don't know js - up & going.pdf](https://github.com/IgorMotorny/library/blob/master/books/You don't know js - up & going.pdf)
+* <a href="https://github.com/IgorMotorny/library/blob/master/books/" >You don't know js - up & going.pdf">You don't know js - up & going.pdf</a> 
