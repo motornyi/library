@@ -61,7 +61,7 @@ function createReadme(obj, path = []) {
       }
     }
   } else {
-    obj.forEach((item) => { buff.push(`\n* <a href="https://github.com/IgorMotorny/library/blob/master/books/${path.join('/')}${item}">${item.replace(/\(.*?\)/, '')}</a> \n`); });
+    obj.forEach((item) => { buff.push(`\n* <a href="${escape('https://github.com/IgorMotorny/library/blob/master/books/' + path.join('/') + item) }">${item.replace(/\(.*?\)/, '')}</a> \n`); });
   }
   return buff;
 }
