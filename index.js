@@ -48,19 +48,20 @@ function read(path) {
    }, ...a);
 }
 
-function createReadme(obj) {
+function createReadme(obj, path = []) {
   let buff = [];
   if(obj instanceof Object && !Array.isArray(obj)) {
     for(key in obj) {
       if(key !== 'general') {
+        const childPath = path.push(key);
         buff.push(`\n## ${key}\n`);
-        buff.push(...createReadme(obj[key]));
+        buff.push(...createReadme(obj[key], childPath));
       } else {
         buff.push(...createReadme(obj[key]));
       }
     }
   } else {
-    obj.forEach((item) => { buff.push(`\n* [${item.replace('.pdf', '')}](https://github.com/IgorMotorny/library/blob/master/books/${item}) \n`); });
+    obj.forEach((item) => { buff.push(`\n* [${item.replace(/\(.*?\)/, '')}](https://github.com/IgorMotorny/library/blob/master/books/${path}${item.replace(/\(/, '/(').replace(/\)/, '/)')}) \n`); });
   }
   return buff;
 }
