@@ -46,7 +46,7 @@ function flatMap(obj) {
     // copy file here
     obj.forEach((item) => {
       fs.writeFileSync(`./dist/${item.hash}.pdf`, fs.readFileSync(item.path));
-      bundle.push(`* [${item.filename.replace(/.pdf/, '')}](./dist/${item.hash}.pdf)`)
+      bundle.push(`* [${item.filename.replace(/.pdf/, '')}](./dist/${item.hash}.pdf) \n`)
     });
   }
   return bundle;
@@ -74,6 +74,6 @@ const root = './books';
 const gitignore = fs.readFileSync('.gitignore').toString().split('\n');
 const directory =  fs.readdirSync(root).filter(filterIgnoredFiles);
 
-fs.writeFile('README.md', `#Frontend books \n ${flatMap(read('./books')).join('\n')}`);
+fs.writeFile('README.md', `#Frontend books \n ${flatMap(read('./books')).join('')}`);
 // console.log();
 // flatMap(read('./books'))
