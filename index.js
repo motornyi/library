@@ -39,6 +39,7 @@ function flatMap(obj) {
   if(obj instanceof Object && !Array.isArray(obj)) {
     for(key in obj) {
       // console.log(flatMap(obj[key]));
+      if(key !== 'general') bundle.push(`# ${key} \n`);
       bundle.push(...flatMap(obj[key]));
     }
   } else {

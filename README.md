@@ -31,25 +31,30 @@
 
  * [Сюрреализм на JavaScript(2014, А. Бахирев)](./dist/92411013c622faac3630649922302ada.pdf) 
 
- * [Разработка Backbone.js приложений (2014,Эдди Османи)_](./dist/0949e0d38d51f414f13a84e72cb3917a.pdf) 
+ # Backbone 
+* [Разработка Backbone.js приложений (2014,Эдди Османи)_](./dist/0949e0d38d51f414f13a84e72cb3917a.pdf) 
 
- * [jQuery Trickshots((Tutorialzine))](./dist/62a93177898504daa55453f604e8a533.pdf) 
+ # JQuery 
+* [jQuery Trickshots((Tutorialzine))](./dist/62a93177898504daa55453f604e8a533.pdf) 
 
  * [jQuery. Cборник рецептов - (2011,Самков Г. А.)](./dist/d2c7744f4dfe495185ee763ad14f89a4.pdf) 
 
  * [jQuery. Подробное руководство по продвинутому JavaScript(2011,Bear Bibeault)](./dist/64e56a43378ac30f18b16216324aa8c0.pdf) 
 
- * [ng-book 2](./dist/c0aa37e61c8e098e38b831106a78f43b.pdf) 
+ # Ng-book 
+* [ng-book 2](./dist/c0aa37e61c8e098e38b831106a78f43b.pdf) 
 
  * [ng-book](./dist/cfadbfe79292e08a0a31929c9f8ecb11.pdf) 
 
- * [Node.js в действии(2014, М.Кантелон)](./dist/2ce0e70e1e3ba71cf424768066da2058.pdf) 
+ # NodeJS 
+* [Node.js в действии(2014, М.Кантелон)](./dist/2ce0e70e1e3ba71cf424768066da2058.pdf) 
 
  * [Node.js. Путеводитель по техологии(К. Сухов, 2015)](./dist/12abc924f4e22a8064f674ff0d6ba95c.pdf) 
 
  * [Изучаем Node.js(2014,Shelli Pauers)](./dist/f6f142a1633410c872cebe73bf393005.pdf) 
 
- * [You don't know js - async & performance](./dist/f38c7a0b8b81bbac7f3f1ab86679c94c.pdf) 
+ # You don't know js 
+* [You don't know js - async & performance](./dist/f38c7a0b8b81bbac7f3f1ab86679c94c.pdf) 
 
  * [You don't know js - es6](./dist/804c93441ec22e87f0fe9eb6cec6b89c.pdf) 
 
