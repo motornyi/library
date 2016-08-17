@@ -4,7 +4,7 @@
   "description": "Readme genrator",
   "main": "index.js",
   "scripts": {
-    "push": "node index.js && git commit -a -m 'Auto commit' && git push origin fix/url",
+    "push": "node index.js && git commit -a -m 'Auto commit' && git push origin master",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
