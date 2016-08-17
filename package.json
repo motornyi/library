@@ -1,0 +1,28 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Readme genrator",
+  "main": "index.js",
+  "scripts": {
+    "push": "node index.js && git commit -a -m 'Auto commit' && git push origin master",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorMotorny/library.git"
+  },
+  "keywords": [
+    "Books",
+    "javascript",
+    "node.js"
+  ],
+  "author": "Ihor Motornyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IgorMotorny/library/issues"
+  },
+  "homepage": "https://github.com/IgorMotorny/library#readme",
+  "devDependencies": {
+    "js-md5": "^0.4.1"
+  }
+}
