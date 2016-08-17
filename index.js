@@ -46,7 +46,7 @@ function flatMap(obj) {
     // copy file here
     obj.forEach((item) => {
       fs.writeFileSync(`./dist/${item.hash}.pdf`, fs.readFileSync(item.path));
-      bundle.push(`*[${item.filename.replace(/.pdf/, '')}](./dist/${item.hash}.pdf) \n\n `)
+      bundle.push(`* [${item.filename.replace(/.pdf/, '')}](./dist/${item.hash}.pdf) \n\n `)
     });
   }
   return bundle;
