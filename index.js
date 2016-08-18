@@ -1,11 +1,10 @@
 const fs = require('fs');
 const md5 = require('js-md5');
 
-const gitignore = fs.readFileSync('.gitignore').toString().split('\n');
+let gitignore;
 let isDirectory = (path, filename) => (fs.statSync(`${path}/${filename}`).isDirectory());
 let isFile = (path, filename) => fs.statSync(`${path}/${filename}`).isFile();
 let isIgnored = (filename) => (gitignore.indexOf(filename) < 0);
-
 let folderMapper = (path, filename) => ({[filename] : read(`${path}/${filename}`)})
 let bookMapper = (path, filename) => ({
   filename: filename,
@@ -15,7 +14,6 @@ let bookMapper = (path, filename) => ({
 
 function read(path) {
   const dir = fs.readdirSync(path);
-
   let isFileBinded = isFile.bind(null, path);
   let bookMapperBinded = bookMapper.bind(null, path);
   let isDirectoryBinded = isDirectory.bind(null, path);
@@ -29,6 +27,7 @@ function read(path) {
 
   return Object.assign({}, { general: rootFiles }, ...files);
 }
+
 
 function flatMap(obj) {
   let bundle = [];
@@ -48,4 +47,25 @@ function flatMap(obj) {
   return bundle;
 }
 
-fs.writeFile('README.md', `#Frontend books \n ${flatMap(read('./books')).join('')}`);
+function readFile(path) {
+  return new Promise((resolve, reject) => {
+    fs.readFile(path, (err, data) => {
+      if(err) reject(err);
+      resolve(data);
+    });
+  })
+}
+
+function readDir(path) {
+  return new Promise((resolve, reject) => {
+    fs.readdir(path, (err, data) => {
+      if(err) reject(err);
+      resolve(data);
+    });
+  });
+}
+
+readFile('.gitignore').then((data) => {
+  gitignore = data.toString().split('\n');
+  fs.writeFile('README.md', `#Frontend books \n ${flatMap(read('./books')).join('')}`);
+})
