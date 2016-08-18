@@ -31,11 +31,11 @@
 
  * [Сюрреализм на JavaScript(2014, А. Бахирев)](./dist/92411013c622faac3630649922302ada.pdf) 
 
-  # Backbone 
+  ## Backbone 
 
  * [Разработка Backbone.js приложений (2014,Эдди Османи)_](./dist/0949e0d38d51f414f13a84e72cb3917a.pdf) 
 
-  # JQuery 
+  ## JQuery 
 
  * [jQuery Trickshots((Tutorialzine))](./dist/62a93177898504daa55453f604e8a533.pdf) 
 
@@ -43,13 +43,13 @@
 
  * [jQuery. Подробное руководство по продвинутому JavaScript(2011,Bear Bibeault)](./dist/64e56a43378ac30f18b16216324aa8c0.pdf) 
 
-  # Ng-book 
+  ## Ng-book 
 
  * [ng-book 2](./dist/c0aa37e61c8e098e38b831106a78f43b.pdf) 
 
  * [ng-book](./dist/cfadbfe79292e08a0a31929c9f8ecb11.pdf) 
 
-  # NodeJS 
+  ## NodeJS 
 
  * [Node.js в действии(2014, М.Кантелон)](./dist/2ce0e70e1e3ba71cf424768066da2058.pdf) 
 
@@ -57,7 +57,7 @@
 
  * [Изучаем Node.js(2014,Shelli Pauers)](./dist/f6f142a1633410c872cebe73bf393005.pdf) 
 
-  # You don't know js 
+  ## You don't know js 
 
  * [You don't know js - async & performance](./dist/f38c7a0b8b81bbac7f3f1ab86679c94c.pdf) 
 

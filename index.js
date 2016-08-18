@@ -1,6 +1,7 @@
 const fs = require('fs');
 const md5 = require('js-md5');
 
+const gitignore = fs.readFileSync('.gitignore').toString().split('\n');
 let isDirectory = (path, filename) => (fs.statSync(`${path}/${filename}`).isDirectory());
 let isFile = (path, filename) => fs.statSync(`${path}/${filename}`).isFile();
 let isIgnored = (filename) => (gitignore.indexOf(filename) < 0);
@@ -40,7 +41,7 @@ function flatMap(obj) {
     // Array
     // copy file here
     obj.forEach((item) => {
-      fs.writeFileSync(`./dist/${item.hash}.pdf`, fs.readFileSync(item.path));
+      fs.createReadStream(item.path).pipe(fs.createWriteStream(`./dist/${item.hash}.pdf`));
       bundle.push(`* [${item.filename.replace(/.pdf/, '')}](./dist/${item.hash}.pdf) \n\n `)
     });
   }
