@@ -1,4 +1,6 @@
 #Frontend books 
+ * [Buid your own Angular.js](./dist/aed4dab3f234d7c54c50ad13b8ca3d2c.pdf) 
+
  * [Discover Meteor(Tom Coleman)](./dist/177adbdd0292ebce8886c2f2a925a531.pdf) 
 
  * [JavaScript для профессиональных веб-разработчиков(2013,Николас Закас)](./dist/044794c7c2da9b789fc6ee2dfe3bc28b.pdf) 
